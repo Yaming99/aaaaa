@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1400783114 source:c:\users\benoît\desktop\testcodeblock\mpi\automate.cpp
+	"automate.h"
+	<limits>
+
+1400783114 c:\users\benoît\desktop\testcodeblock\mpi\automate.h
+	"etat.h"
+
+1400783039 source:c:\users\benoît\desktop\testcodeblock\mpi\main.cpp
+	"automate.h"
+
+1400081233 source:c:\users\benoîtnotepad\documents\projet mpi\mpi\main.cpp
+	"automate.h"
+
+1400084179 c:\users\benoîtnotepad\documents\projet mpi\mpi\automate.h
+	"transition.h"
+	"etat.h"
+
+1400083052 source:c:\users\benoîtnotepad\documents\projet mpi\mpi\automate.cpp
+	"automate.h"
+
+1400083921 source:c:\users\benoîtnotepad\documents\projet mpi\mpi\etat.cpp
+	"etat.h"
+
+1400071220 source:c:\users\benoîtnotepad\documents\projet mpi\mpi\transition.cpp
+	"transition.h"
+
+1400081216 c:\users\benoîtnotepad\documents\projet mpi\mpi\transition.h
+	<iostream>
+	<vector>
+	<string>
+	<dirent.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+
+1400083921 c:\users\benoîtnotepad\documents\projet mpi\mpi\etat.h
+	"transition.h"
+
+1400694062 c:\users\benoît\desktop\testcodeblock\mpi\etat.h
+	"transition.h"
+
+1400691666 c:\users\benoît\desktop\testcodeblock\mpi\transition.h
+	<iostream>
+	<vector>
+	<string>
+	<dirent.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+
+1400694096 source:c:\users\benoît\desktop\testcodeblock\mpi\etat.cpp
+	"etat.h"
+
+1400705289 source:c:\users\benoît\desktop\testcodeblock\mpi\transition.cpp
+	"transition.h"
+
+1400783114 source:c:\users\bruno\desktop\mpi\automate.cpp
+	"automate.h"
+	<limits>
+
+1400783114 c:\users\bruno\desktop\mpi\automate.h
+	"etat.h"
+
+1400694062 c:\users\bruno\desktop\mpi\etat.h
+	"transition.h"
+
+1400691666 c:\users\bruno\desktop\mpi\transition.h
+	<iostream>
+	<vector>
+	<string>
+	<dirent.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+
+1400694096 source:c:\users\bruno\desktop\mpi\etat.cpp
+	"etat.h"
+
+1400784662 source:c:\users\bruno\desktop\mpi\main.cpp
+	"automate.h"
+
+1400705289 source:c:\users\bruno\desktop\mpi\transition.cpp
+	"transition.h"
+
+1555610547 source:c:\users\min\desktop\mpi\etat.cpp
+	"etat.h"
+
+1555610485 c:\users\min\desktop\mpi\etat.h
+	"transition.h"
+
+1555610506 c:\users\min\desktop\mpi\transition.h
+	<iostream>
+	<vector>
+	<string>
+	<dirent.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+
+1555612239 source:c:\users\min\desktop\mpi\main.cpp
+	"automate.h"
+	<cstddef>
+
+1555610460 c:\users\min\desktop\mpi\automate.h
+	"etat.h"
+
+1555610525 source:c:\users\min\desktop\mpi\transition.cpp
+	"transition.h"
+
+1555611819 source:c:\users\min\desktop\mpi\automate.cpp
+	"automate.h"
+	<limits>
+
+1558104620 source:c:\users\alex\desktop\mpi\automate.cpp
+	"automate.h"
+	<limits>
+
+1558103679 c:\users\alex\desktop\mpi\automate.h
+	"etat.h"
+
+1556247770 c:\users\alex\desktop\mpi\etat.h
+	"transition.h"
+
+1558103432 c:\users\alex\desktop\mpi\transition.h
+	<iostream>
+	<vector>
+	<string>
+	<dirent.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+
+1556247770 source:c:\users\alex\desktop\mpi\etat.cpp
+	"etat.h"
+
+1558103896 source:c:\users\alex\desktop\mpi\main.cpp
+	"automate.h"
+	<cstddef>
+
+1558104056 source:c:\users\alex\desktop\mpi\transition.cpp
+	"transition.h"
+
